@@ -1,0 +1,9 @@
+*.pyc
+DIRresults.txt
+__pycache__
+.DS_Store
+*.log
+*.dat
+tags
+*.swp
+.idea/*
